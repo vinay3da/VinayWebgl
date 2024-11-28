@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85468483615",
+    "project_id": "race--clicker-tap-muscle-up",
+    "storage_bucket": "race--clicker-tap-muscle-up.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85468483615:android:715b7057316e841665c52a",
+        "android_client_info": {
+          "package_name": "com.cmgame.run.clicker.tap.muscleup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-mqBtDAAVcQOZsqphW--ZWizetjYn0gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
